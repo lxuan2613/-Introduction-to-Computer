@@ -25,6 +25,7 @@ Technological Addiction：1.網路成癮，簡稱網癮，（Internet addiction 
 crowdsourcing VS crowdfunding：  1.眾包 VS 眾籌  
                                  2.眾包：公司將過去由指定的員工完成的工作，公開地交由不固定的一大群人完成
                                  3.眾籌：用團購 + 預購的形式，向網友募集項目資金的模式
+                                 
 metadata：1.元資料
           2.三種不同類型，分別是記敘性元資料、結構性元資料和管理性元資料
           3.元資料是指「描述資料的資料」
@@ -33,9 +34,9 @@ CMS：1.內容管理系統（content management system，縮寫為 CMS）
      2.指在一個合作模式下，用於管理工作流程的一套制度
      3.現在流行的開源CMS系統有WordPress、Joomla!、Drupal、Xoops、CmsTop等
 
-DDos：1.分散式阻斷服務攻擊（distributed denial-of-service attack，簡稱DDoS攻擊）
-      2.是一種網路攻擊手法，其目的在於使目標電腦的網路或系統資源耗盡，使服務暫時中斷或停止，導致其正常用戶無法存取。
-      3.DoS也常見於部分網路遊戲，被心懷不滿的玩家廣泛使用。DoS也常用於抗議，是「網路街頭抗議」的一種形式。
+DDos(Attack)：1.分散式阻斷服務攻擊（distributed denial-of-service attack，簡稱DDoS攻擊）
+              2.是一種網路攻擊手法，其目的在於使目標電腦的網路或系統資源耗盡，使服務暫時中斷或停止，導致其正常用戶無法存取。
+              3.DoS也常見於部分網路遊戲，被心懷不滿的玩家廣泛使用。DoS也常用於抗議，是「網路街頭抗議」的一種形式。
       
 Botnet：1.殭屍網路
         2.駭客利用自己編寫的DDos(分散式阻斷服務攻擊)
