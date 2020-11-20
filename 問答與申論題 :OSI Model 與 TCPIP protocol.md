@@ -10,7 +10,7 @@
    
  (1)
  ![image](https://github.com/lxuan2613/-Introduction-to-Computer/blob/main/TCP-IP%E6%A8%A1%E5%9E%8B%20(2).png)
- ![image]https://www.google.com/url?sa=i&url=http%3A%2F%2Flinux.vbird.org%2Flinux_server%2F0110network_basic.php&psig=AOvVaw3KO6pxl-vmh7URUPOhfnXn&ust=1605921526538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCBj7f5j-0CFQAAAAAdAAAAABAc
+ ![image](http://linux.vbird.org/linux_server/0110network_basic//osi_tcpip.gif)
  
  (2)
  第一層︰實體層（Physical Layer）
