@@ -1,4 +1,4 @@
- #問答與申論題 :OSI Model 與 TCP/IP protocol
+ # 問答與申論題 :OSI Model 與 TCP/IP protocol
  
 1.解釋 communication protocol(簡稱協定 protocol) ： Communications Protocol：通信協定一種大家所認同的方法來互相溝通稱之為協議。
 
@@ -10,6 +10,7 @@
    
  (1)
  ![image](https://github.com/lxuan2613/-Introduction-to-Computer/blob/main/TCP-IP%E6%A8%A1%E5%9E%8B%20(2).png)
+ ![image]https://www.google.com/url?sa=i&url=http%3A%2F%2Flinux.vbird.org%2Flinux_server%2F0110network_basic.php&psig=AOvVaw3KO6pxl-vmh7URUPOhfnXn&ust=1605921526538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCBj7f5j-0CFQAAAAAdAAAAABAc
  
  (2)
  第一層︰實體層（Physical Layer）
@@ -39,6 +40,15 @@
 
 4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
    (1)HTTP vs HTTPS (2) TELNET vs SSH (3)DNS (4)IP (5)ICMP
+    
+   (1) 應用層
+   HTTP 全名是 超文本傳輸協定（HyperText Transfer Protocol），內容只規範了客戶端請求與伺服器回應的標準，實際上是藉由 TCP 作為資料的傳輸方式。
+   HTTPS 全名 超文本傳輸安全協定，那個 S 就是 Secure 的意思；HTTPS 透過 HTTP 進行通訊，但通訊過程使用 SSL/TLS 進行加密，藉由類似於前述的加密方式，在 HTTP 之上定義了相對安全的資料傳輸方法。
+
+(2) 應用層
+telnet：執行Telnet程式來連線到遠端伺服器並輸入帳密讓使用者可以遠端控制主機。但是因為傳輸的資料並未加密所以容易遭到竊取，因此後來多改用較安全的SSH。
+SSH：是在不安全的網路上進行安全遠端登入和其他安全網路服務的協定(RFC 4251)，SSH由三個主要協定組成。
+
 
 5. TCP vs UDP
 [1]英文全名
